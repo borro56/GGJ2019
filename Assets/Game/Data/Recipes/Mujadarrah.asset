@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29d0d6ea1a6e754fbbcb57378f38789, type: 3}
+  m_Name: Mujadarrah
+  m_EditorClassIdentifier: 
+  nationality: {fileID: 11400000, guid: e20973e99d38261429ada52d1699931f, type: 2}
+  ingredients:
+  - {fileID: 11400000, guid: 07e57fe0ff625eb49b73f1005a61bc91, type: 2}
+  - {fileID: 11400000, guid: d4177157fca18de4e84306a0262b3489, type: 2}
+  - {fileID: 11400000, guid: cdcf62c52589e6d43aedac7338764e73, type: 2}
+  - {fileID: 11400000, guid: cd18cab70ad8445419a589a83a3aacb7, type: 2}

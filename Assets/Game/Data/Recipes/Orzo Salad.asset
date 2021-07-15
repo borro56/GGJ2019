@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29d0d6ea1a6e754fbbcb57378f38789, type: 3}
+  m_Name: Orzo Salad
+  m_EditorClassIdentifier: 
+  nationality: {fileID: 11400000, guid: 4ead62d08da6653439d671bdb35d37c7, type: 2}
+  ingredients:
+  - {fileID: 11400000, guid: b70df56861cd7484ba42d85a72cb839f, type: 2}
+  - {fileID: 11400000, guid: 18cc3c066310adc47b5035337fc06301, type: 2}
+  - {fileID: 11400000, guid: f2e5c6dc2c18a9749a880876bc0292da, type: 2}
+  - {fileID: 11400000, guid: 07e57fe0ff625eb49b73f1005a61bc91, type: 2}

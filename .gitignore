@@ -1,0 +1,10 @@
+Library/
+Logs/
+Temp/
+*.sln
+*.user
+.idea/
+*.csproj
+*.DotSettings
+Builds/
+obj

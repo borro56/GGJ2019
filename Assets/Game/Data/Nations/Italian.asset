@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d9b9c9b9982aa4590aa4de960fac8f, type: 3}
+  m_Name: Italian
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f2ae77fe79699044faccd5abdcac1c40, type: 3}
+  maleNames:
+  - Alessandro
+  - Francesco
+  - Leonardo
+  - Lorenzo
+  - Matteo
+  - Riccardo
+  - Tommaso
+  - Antonio
+  - Andrea
+  - Favio
+  femaleNames: []
+  lastNames:
+  - Russo
+  - Ferrari
+  - Esposito
+  - Bianchi
+  - Alfonsi
+  - Romano
+  - Colombo
+  - Ricci
+  - Crovini
+  - Cardamone
+  happyFace: {fileID: 21300000, guid: 4e78cf320cf2ef240bbec9c1ac2dbd5a, type: 3}
+  neutralFace: {fileID: 21300000, guid: 5e9997c09caf19842892f7b88f9fc9de, type: 3}
+  sadFace: {fileID: 21300000, guid: beb5f0d6a2af81a4f996413c9a3a3352, type: 3}
+  happySound: {fileID: 8300000, guid: 8e4860f8a1fd8a846bea6129ea582189, type: 3}
+  sadSound: {fileID: 8300000, guid: 84afbf6e564459d4b8b9df2ae1627d97, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d9b9c9b9982aa4590aa4de960fac8f, type: 3}
+  m_Name: Arab
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b988939295f98e64f89f6d67fef5a9b9, type: 3}
+  maleNames:
+  - Amir
+  - Ibrahim
+  - Nasir
+  - Zain
+  - Aaarabisk
+  - Aaban
+  - Aabinus
+  - Abdoul
+  - Vahid
+  - Ra'id
+  femaleNames: []
+  lastNames:
+  - Abboud
+  - Abidin
+  - Abiha
+  - Al-Lateef
+  - Hamdan
+  - Ben Yahia
+  - Badri
+  - Fadel
+  - Faez
+  - Faheem
+  happyFace: {fileID: 21300000, guid: ada115ef1f318a947b590296ad7bb6ae, type: 3}
+  neutralFace: {fileID: 21300000, guid: 228d6290e66d7a84884fc82ed1a1de90, type: 3}
+  sadFace: {fileID: 21300000, guid: 8d99eb2f26b2adb419c54a5ff60ac91a, type: 3}
+  happySound: {fileID: 8300000, guid: 58e727d0ee6ee1d4289de67970a10914, type: 3}
+  sadSound: {fileID: 8300000, guid: 97c09ced52e36d64ba6327c1fa9ee440, type: 3}
